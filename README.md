@@ -31,7 +31,7 @@ Avec l'alimentation 3.3V on obtient un courant de 240mA environ, soit un flux lu
 
 Pour le montage, il faut connecter la broche +3.3V du Raspberry Pi sur l'entrée + du Mosfet, ainsi que le GND sur le GND du Raspberry Pi. Puis enfin, connecter l’Out sur l'anode de la LED.
 
-
+![alt text](https://github.com/H0henheim/Blob-timelapse/blob/42f21e59c9c31b467f02b34a1615ffa22855a4ea/ressources/schema_montage_blob_white.png)
 
 ## Installation :
 Nous partons du principe que Raspbian est installé sur le Raspberry Pi (voir ce [tutoriel](https://www.raspberrypi-france.fr/guide/installer-raspbian-raspberry-pi/))
@@ -141,9 +141,13 @@ Le mot de passe de l’utilisateur ayant été demandé pour la commande *sudo s
 
 Dernier point : un fichier de log *timelapse.log* s’alimente dans le répertoire où sont stockées les photos. Il permet de suivre l’évolution des prises de vue et détecter si un souci est survenu (notamment l’arrêt du script pour une raison X).
 
+## Aperçu :
 
+<img src="https://github.com/H0henheim/Blob-timelapse/blob/42f21e59c9c31b467f02b34a1615ffa22855a4ea/ressources/20211021_140225.jpg" height="500" width="300"> <img src="https://github.com/H0henheim/Blob-timelapse/blob/42f21e59c9c31b467f02b34a1615ffa22855a4ea/ressources/apache_screen_1.png" height="230" width="300"> <img src="https://github.com/H0henheim/Blob-timelapse/blob/42f21e59c9c31b467f02b34a1615ffa22855a4ea/ressources/apache_screen_2.png" height="230" width="300">
 
+## Vidéo produite :
 
+[![Blob Timelapse](https://img.youtube.com/vi/KnkiHxeuSHA/hqdefault.jpg)](https://youtu.be/KnkiHxeuSHA)
 
 
 
