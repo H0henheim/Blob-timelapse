@@ -4,7 +4,7 @@ Create a timelapse using a Raspberry Pi and a Pi Camera
 # Projet : [Élève ton Blob](https://disciplines.ac-toulouse.fr/stc3/eleve-ton-blob-lexperience-educative-du-cnes-pour-la-mission-alpha)
 Le [CNES](https://enseignants-mediateurs.cnes.fr/fr/elevetonblob-lexperience-educative-du-cnes-pour-la-mission-alpha) propose de participer à des expériences basées sur l'étude du comportement du *Physarum Polycephalum* (alias le Blob) en collaboration avec la mission Alpha de Thomas Pesquet.
 Il s'agit de comparer le comportement du Blob sur Terre dans les conditions de pesanteur terrestre avec son comportement en microgravité dans l'ISS.
-Pour mesurer le comportement, des photos de son évolution doivent être prises suivant les différents protocoles proposés.
+Pour étudier le comportement, des photos de son évolution doivent être prises suivant les différents protocoles proposés.
 Le Blob ne supportant pas la lumière, il doit être placé dans un endroit sombre. Il faut donc éclairer la scène aux moments idoines lors des prises de photos.
 
 Pour prendre les photos, la solution suivante a été utilisée :
